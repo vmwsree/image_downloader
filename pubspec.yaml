@@ -5,8 +5,6 @@ authors:
 - koji ishii <ko2ic.dev@gmail.com>
 homepage: https://github.com/ko2ic/image_downloader
 
-environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
   flutter:
